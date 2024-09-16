@@ -2,7 +2,7 @@
 
 ## Objective
 
-The client having Pizza outlet wants to analyze the sales and orders placed for the pizzas annually so that they can easily understand their customers needs and can improvise their services and also generate incresed revenue.
+The client having Pizza outlet wants to analyze the sales and orders placed for the pizzas annually so that they can easily understand their customers needs and can improvise their services and also generate increased revenue.
 Here in this project I had used MySql database. MySQL is a widely-used open-source relational database management system (RDBMS) that is renowned for its speed,     reliability, and ease of use. 
 
 ## Insights after analysis
